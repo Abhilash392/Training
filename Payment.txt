@@ -1,3 +1,7 @@
 Payment info
 And code
+<<<<<<< HEAD
 Adding 3rd file line
+=======
+3rd line SBI
+>>>>>>> f145ab31ac748777226169d9248bccbea0dcef85
